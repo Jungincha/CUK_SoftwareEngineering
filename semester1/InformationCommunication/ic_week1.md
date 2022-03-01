@@ -7,7 +7,7 @@
 
 ## 정보통신: 네트워크 + 컴퓨터
 - SAGE 군사적 목적
-- SNA
+- SNA : Systems Network Architecture
 - TCP/IP
 
 ## 신호란
