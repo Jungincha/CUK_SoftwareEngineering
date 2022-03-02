@@ -69,8 +69,9 @@ A collection of related data 서로 관련 있는 데이터들의 모임
 - 관계 relationship
 - 제약조건 constraint
 <br>
-3단계 데이터베이스 구조 <br>
-![alt text](https://blog.kakaocdn.net/dn/bvqMrR/btqN02bgEod/pkZLTK4VDB99FQrFckK2X1/img.png)
+3단계 데이터베이스 구조
+<br>
+![alt text](https://static.javatpoint.com/dbms/images/dbms-three-schema-architecture.png)
 
 #### 데이터 독립성
 - 논리적 데이터 독립성 
