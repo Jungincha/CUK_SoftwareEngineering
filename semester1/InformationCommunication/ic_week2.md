@@ -14,3 +14,6 @@
 - 교환기에 연결된 전화망 
 - 자동 기계씩 교환기 발명
 - 크로스바 교환
+- 장거리 전송 시 증폭기 사용(repeater) 
+- UMS (Unified Messaging System)
+- SS7 지능망 
