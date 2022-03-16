@@ -8,6 +8,9 @@
 - Modulator + Demodulator
 
 ## 전화망 : 통신의 대부
+
+### 초기 전화망
+ex) 6가구 시 => 6 * 5 / 2 = 15전선 필요
 - 회선 교환망(Circuit Switched Network)의 대표 모델 <-> Packet Switched Network(Digita)
 - 전신은 현대적 전기 통신의 시초
 - 초기 구매자가 직접 전선 연결 => 전선갯수 n(n-1)/2 
