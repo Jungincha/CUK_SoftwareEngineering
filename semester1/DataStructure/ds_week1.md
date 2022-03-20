@@ -53,8 +53,22 @@ C++, Java : Class 지원
 - 효과성
 
 ## 복잡도
-### Big O 
-연산의 횟수를 대략적\(점근적)으로 표현
+### Big Omega
+- [빅오표기법 설명](https://www.youtube.com/watch?v=6Iq5iMCVsXA&ab_channel=%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)
+- 연산의 횟수를 대략적\(점근적)으로 표현
+- Mathematical notation that describes algorithm efficiency
+- Time & space complexity
+- Describes the growth rate of algorithms
+- Drop constants 상수를 과감히 버린다 2n => n
+- O(1)
+- O(n)
+- O(n²)
+- O(nm)
+- O(n³)
+- O(2ⁿ) 피보나치 수열
+- O(mⁿ)
+- O(log n) binary search 이진검색
+- O(Sqrt(n))
 
 
 
